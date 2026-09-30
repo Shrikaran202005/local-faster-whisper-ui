@@ -46,7 +46,8 @@ LANGUAGE_OPTIONS = {
     "Japanese": "ja",
     "Korean": "ko",
     "Hindi": "hi",
-    "Arabic": "ar"
+    "Arabic": "ar",
+    "Tamil": "ta"
 }
 
 
