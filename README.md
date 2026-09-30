@@ -146,8 +146,3 @@ By default, the application runs on CPU with `int8` quantization. If you have an
 └── .gitignore          # Version control ignore list
 ```
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
